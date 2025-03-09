@@ -1,2 +1,1 @@
-"Hello, Git!" 
-meet is besides me...
+Hello, World! 
